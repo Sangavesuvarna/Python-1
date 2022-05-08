@@ -1,7 +1,8 @@
 #This is a comment.
 print("Hello, World!")
 
-''' This is also a Comment '''
+''' This is also a Comment 
+'''
 
 print("Lo que se ponga despues del # es un comentario") #This is a comment
 

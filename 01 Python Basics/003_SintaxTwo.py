@@ -1,7 +1,7 @@
 #Python Variables
 
 x = 5
-y = "Hello, World!"
-z = 4
+y = "Hello, World! "
+z = 4.0
 
-print(z+x)
+print(y + str(x+z))

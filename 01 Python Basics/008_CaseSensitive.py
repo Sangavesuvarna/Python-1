@@ -4,4 +4,4 @@
 a = "4"
 A = "Sally"
 #A will not overwrite a
-print(a +" "+ A)
+print(a +"\n"+ A)
